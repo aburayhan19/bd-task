@@ -130,7 +130,7 @@ class SignInState extends State<SignIn> {
           width: MediaQuery.of(context).size.width,
           padding: EdgeInsets.all(20),
           child: Text(
-            'User not found 😞',
+            'User not found',
             style: TextStyle(fontSize: 20),
           ),
         )
